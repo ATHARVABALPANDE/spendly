@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="A cartoon monkey">
+  <defs>
+    <radialGradient id="face" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#d9a066"/>
+      <stop offset="100%" stop-color="#a9713a"/>
+    </radialGradient>
+  </defs>
+  <!-- ears -->
+  <circle cx="46" cy="118" r="30" fill="#a9713a"/>
+  <circle cx="46" cy="118" r="16" fill="#e8c9a0"/>
+  <circle cx="194" cy="118" r="30" fill="#a9713a"/>
+  <circle cx="194" cy="118" r="16" fill="#e8c9a0"/>
+  <!-- head -->
+  <ellipse cx="120" cy="120" rx="78" ry="72" fill="url(#face)"/>
+  <!-- muzzle -->
+  <ellipse cx="120" cy="146" rx="52" ry="42" fill="#f0d6b3"/>
+  <!-- eyes -->
+  <ellipse cx="98" cy="104" rx="18" ry="20" fill="#fff"/>
+  <ellipse cx="142" cy="104" rx="18" ry="20" fill="#fff"/>
+  <circle cx="100" cy="108" r="8" fill="#3a2a1a"/>
+  <circle cx="140" cy="108" r="8" fill="#3a2a1a"/>
+  <circle cx="103" cy="105" r="2.5" fill="#fff"/>
+  <circle cx="143" cy="105" r="2.5" fill="#fff"/>
+  <!-- brow -->
+  <path d="M80 84 q18 -14 38 -2" stroke="#7a4f28" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M122 82 q20 -12 38 2" stroke="#7a4f28" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- nostrils -->
+  <ellipse cx="110" cy="150" rx="4" ry="6" fill="#7a4f28"/>
+  <ellipse cx="130" cy="150" rx="4" ry="6" fill="#7a4f28"/>
+  <!-- smile -->
+  <path d="M96 166 q24 24 48 0" stroke="#7a4f28" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- tuft -->
+  <path d="M120 46 q-8 -16 4 -26 q-2 14 8 18 q-8 2 -12 8z" fill="#7a4f28"/>
+</svg>
