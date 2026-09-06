@@ -1,0 +1,46 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 140-284-109
+127.0.0.1 - - [06/Sep/2026 11:26:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:29:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:29:48] "GET /static/js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:29:48] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:29:52] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Sep/2026 11:30:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:05] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:05] "GET /static/js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:07] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Sep/2026 11:30:21] "GET /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:21] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:21] "GET /static/js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:24] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Sep/2026 11:30:39] "GET /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:39] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:39] "GET /static/js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:42] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Sep/2026 11:30:57] "GET /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:57] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:30:57] "GET /static/js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:31:04] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Sep/2026 11:31:22] "GET /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:31:22] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:31:22] "GET /static/js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:31:33] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Sep/2026 11:31:49] "GET /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:31:49] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:31:49] "GET /static/js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:31:52] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Sep/2026 11:32:25] "GET /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:32:25] "GET /static/js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:32:25] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:32:26] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Sep/2026 11:32:51] "GET /login HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:32:51] "GET /static/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Sep/2026 11:32:51] "GET /static/js/main.js HTTP/1.1" 304 -
+127.0.0.1 - - [06/Sep/2026 11:34:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:34:49] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:34:49] "GET /static/js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Sep/2026 11:34:59] "GET /favicon.ico HTTP/1.1" 404 -
